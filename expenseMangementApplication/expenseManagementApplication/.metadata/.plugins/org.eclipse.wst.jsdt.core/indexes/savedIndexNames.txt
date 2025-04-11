@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+D:\SumitInfosys\expenseMangementApplication\expenseManagementApplication\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1982882154.index
-3924842961.index
-3394470118.index
-3954779257.index
-3000345402.index
-3249541878.index

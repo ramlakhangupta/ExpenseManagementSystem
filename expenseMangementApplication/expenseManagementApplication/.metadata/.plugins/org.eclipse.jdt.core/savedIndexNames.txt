@@ -1,2 +1,0 @@
-INDEX VERSION 1.134+D:\SumitInfosys\expenseMangementApplication\expenseManagementApplication\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
